@@ -18,7 +18,7 @@ if not GOOGLE_API_KEY:
 
 
 genai.configure(api_key=GOOGLE_API_KEY)
-model = genai.GenerativeModel('gemini-2.0-flash')
+model = genai.Gemini('gemini-2.0-flash')
 
 
 COOKING_KB = {
