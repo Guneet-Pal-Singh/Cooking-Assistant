@@ -25,7 +25,6 @@ A web-based assistant designed to enhance your cooking experience by providing h
 | JavaScript ⚡ | Frontend interactivity |
 | HTML 🏗️     | Web page structure     |
 | CSS 🎨      | Styling and layout     |
-| Vercel 🚀    | Deployment             |
 
 ---
 
@@ -71,14 +70,6 @@ python Cooking_Assistant.py
 
 ---
 
-## 🌍 Deployment
-
-The project is deployed at:  
-🔗 [cooking-assistant-nine.vercel.app](https://cooking-assistant-nine.vercel.app)
-
-You can also deploy your own instance using [Vercel](https://vercel.com/) or any static hosting provider for the frontend, and a Python server for the backend.
-
----
 
 ## 🤝 Contributing
 
