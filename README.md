@@ -3,7 +3,6 @@
 
 A web-based assistant designed to enhance your cooking experience by providing helpful guidance, recipes, and interactive features. This project combines Python and JavaScript for backend and frontend functionality, with a modern web interface.
 
-🌐 **Project URL:** [cooking-assistant-nine.vercel.app](https://cooking-assistant-nine.vercel.app)
 
 ---
 
